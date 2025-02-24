@@ -4,7 +4,7 @@
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![Open Source](https://img.shields.io/badge/Open%20Source-✔-brightgreen)
 
-Application de chiffrement de fichiers/dossiers conforme aux standards bancaires et militaires.
+Application de chiffrement de fichiers/dossiers conforme aux standards 2025.
 <p align="center">
   <img src="DeepCrypt.PNG" alt="Bannière DeepCrypt" />
 </p>
