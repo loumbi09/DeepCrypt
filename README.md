@@ -42,6 +42,15 @@ Application de chiffrement de fichiers/dossiers conforme aux standards bancaires
 
 *Configuration : Intel i7-1185G7 • 16GB DDR4 • SSD NVMe*
 
+## 🌟 Comparatif des Solutions
+
+| Critère               | DeepCrypt | VeraCrypt | 7-Zip |
+|-----------------------|-----------|-----------|-------|
+| Chiffrement Authentifié | ✔️        | ❌         | ❌     |
+| Gestion Dossiers      | ✔️        | ✔️         | ❌     |
+| Personnalisation Algo | ✔️        | ❌         | ❌     |
+| Open Source           | ✔️        | ✔️         | ✔️     |
+
 ## 🧩 Workflow d'Utilisation
 
 1. `Sélection` Fichier/Dossier
