@@ -5,6 +5,9 @@
 ![Open Source](https://img.shields.io/badge/Open%20Source-✔-brightgreen)
 
 Application de chiffrement de fichiers/dossiers conforme aux standards bancaires et militaires.
+<p align="center">
+  <img src="images/DeepCrypt.png" alt="Bannière DeepCrypt" />
+</p>
 
 ## 🚀 Fonctionnalités
 
