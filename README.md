@@ -6,7 +6,7 @@
 
 Application de chiffrement de fichiers/dossiers conforme aux standards bancaires et militaires.
 <p align="center">
-  <img src="images/DeepCrypt.png" alt="Bannière DeepCrypt" />
+  <img src="DeepCrypt.PNG" alt="Bannière DeepCrypt" />
 </p>
 
 ## 🚀 Fonctionnalités
