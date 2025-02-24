@@ -53,5 +53,6 @@ Application de chiffrement de fichiers/dossiers conforme aux standards bancaires
 
 ```bash
 # Commande d'installation
-git clone https://github.com/votreutilisateur/deepcrypt.git
+git clone https://github.com/loumbi09/DeepCrypt.git
 cd deepcrypt && pip install -r requirements.txt
+python DeepCrypt.py
